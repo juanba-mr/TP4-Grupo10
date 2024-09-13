@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\tp4_grupo_nro_13\\ejericio3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|solutionrelative:tp4_grupo_nro_13\\ejericio3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|c:\\users\\miwam\\onedrive\\escritorio\\utn\\tp4_grupo_nro_13\\tp4_grupo_nro_13\\ejericio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|solutionrelative:tp4_grupo_nro_13\\ejericio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|c:\\users\\miwam\\onedrive\\escritorio\\utn\\tp4_grupo_nro_13\\tp4_grupo_nro_13\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|solutionrelative:tp4_grupo_nro_13\\ejercicio1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\tp4_grupo_nro_13\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|solutionrelative:tp4_grupo_nro_13\\ejercicio2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\tp4_grupo_nro_13\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9775CD04-EFCB-4AAB-8791-02A76AB409B8}|TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13.csproj|solutionrelative:tp4_grupo_nro_13\\ejercicio2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio1.aspx",
+              "DocumentMoniker": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio1.aspx",
+              "RelativeDocumentMoniker": "TP4_Grupo_Nro_13\\Ejercicio1.aspx",
+              "ToolTip": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio1.aspx",
+              "RelativeToolTip": "TP4_Grupo_Nro_13\\Ejercicio1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-13T15:42:53.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejericio3.aspx",
+              "DocumentMoniker": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejericio3.aspx",
+              "RelativeDocumentMoniker": "TP4_Grupo_Nro_13\\Ejericio3.aspx",
+              "ToolTip": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejericio3.aspx",
+              "RelativeToolTip": "TP4_Grupo_Nro_13\\Ejericio3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-13T15:39:05.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejericio3.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejericio3.aspx.cs",
+              "RelativeDocumentMoniker": "TP4_Grupo_Nro_13\\Ejericio3.aspx.cs",
+              "ToolTip": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejericio3.aspx.cs",
+              "RelativeToolTip": "TP4_Grupo_Nro_13\\Ejericio3.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:28:29.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio2.aspx.cs",
+              "RelativeDocumentMoniker": "TP4_Grupo_Nro_13\\Ejercicio2.aspx.cs",
+              "ToolTip": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio2.aspx.cs",
+              "RelativeToolTip": "TP4_Grupo_Nro_13\\Ejercicio2.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:23:42.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ejercicio2.aspx",
+              "DocumentMoniker": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio2.aspx",
+              "RelativeDocumentMoniker": "TP4_Grupo_Nro_13\\Ejercicio2.aspx",
+              "ToolTip": "C:\\Users\\miwam\\OneDrive\\Escritorio\\UTN\\TP4_Grupo_Nro_13\\TP4_Grupo_Nro_13\\Ejercicio2.aspx",
+              "RelativeToolTip": "TP4_Grupo_Nro_13\\Ejercicio2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T20:40:42.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
