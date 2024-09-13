@@ -1,0 +1,236 @@
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll.config
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.pdb
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe.config
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.rsp
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe.config
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.rsp
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.AppContext.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Console.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Http.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Sockets.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.ValueTuple.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe.config
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.rsp
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grup.D90E5294.Up2Date
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.dll
+C:\Users\franc\OneDrive\Escritorio\TP 4\TP4_Grupo_Nro_13_V06\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.pdb
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.pdb
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll.config
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.pdb
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe.config
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.rsp
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe.config
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.rsp
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.AppContext.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Console.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Http.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe.config
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.rsp
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emanuel\Desktop\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grup.D90E5294.Up2Date
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.AssemblyReference.cache
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.CoreCompileInputs.cache
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.pdb
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll.config
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.pdb
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe.config
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.rsp
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe.config
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.rsp
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.AppContext.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Console.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Http.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Sockets.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.ValueTuple.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe.config
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.rsp
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\miwam\OneDrive\Escritorio\UTN\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grup.D90E5294.Up2Date
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll.config
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\TP4_Grupo_Nro_13.pdb
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.exe.config
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csc.rsp
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.exe.config
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\csi.rsp
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.AppContext.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Collections.Immutable.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Console.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Globalization.Calendars.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Http.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Net.Sockets.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Reflection.Metadata.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.ValueTuple.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.exe.config
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\vbc.rsp
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\roslyn\VBCSCompiler.exe.config
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.AssemblyReference.cache
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.csproj.CoreCompileInputs.cache
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grup.D90E5294.Up2Date
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.dll
+E:\PC\Downloads\UTN\cuatri 3\Prog 3\TP4\TP4_Grupo_Nro_13\TP4_Grupo_Nro_13\obj\Debug\TP4_Grupo_Nro_13.pdb
